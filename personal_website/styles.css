@@ -6,6 +6,7 @@ body {
     text-align: center;
     font-family: impact;
     background-color: black;
+
 }
 
 h1 {
@@ -26,4 +27,12 @@ h4 {
 
 p {
     color: yellow;
+}
+
+button {
+    color: blue;
+}
+
+button hover {
+    color: red;
 }
